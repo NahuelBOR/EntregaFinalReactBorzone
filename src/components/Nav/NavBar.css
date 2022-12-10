@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,900&display=swap');
+
+.btn-cerrar{
+    font-family: 'Vollkorn', serif;
+   
+}
+.navbar-container {
+    max-width: 814px;
+    margin: 0 auto;
+    padding: 23px 0;
+    background-color: bisque;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
+
+.navbar-navtitle {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: none;
+    font-size: 70px;
+
+}
+
+.navbar-navbar {
+    min-width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-navlink {
+    font-size: 40px;
+    font-weight: 600;
+    color: rgba(17, 0, 255, 0.808);
+    text-decoration: none;
+}
