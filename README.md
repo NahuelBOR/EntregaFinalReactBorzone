@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alejandro Dominguez</h1>
-<h3 align="center">Chef con ganas de programar</h3>
+<h1 align="center">Hi 👋, I'm Nahuel Borzone</h1>
 
-- 🔭 I’m currently working on [reactjs-alejandrodominguez](https://github.com/alejandrodominguez1986/reactjs-alejandrodominguez.git)
 
 -Es un ecommerce de utencillos de gastronomia, donde se pueden ver todos los productos y ademas se puede entrar a cada producto para ver su detalle y elegir la cantidad del mismo producto que el cliente quiera comprar. Tambien tiene posibilidad el cliente de eliminar 1 producto de su carrito como tambien eliminar el carrito entero y volver a la pagina principal para empezar a relizar de nuevo su compra.
 En el momento que se queda sin stock el producto, al producto se le aparece un cartel que avisa de falta de estock. En el caso que el cliente quiera comprar mas del stock que tiene el producto el boton se bloquea para que no se sigan agregando unidades. Y si por esas casualidades el producto queda sin stock en el momento de realizar la compro con un alert avisamos que no se puede efectuar la compra 
@@ -26,11 +24,7 @@ En el momento que se queda sin stock el producto, al producto se le aparece un c
                                         📄 Hooks
                                         
 
-- ⚡ Podes ver la pagina en vercel **📫 https://reactjs-alejandrodominguez.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/alejandro-dominguez-006363246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alejandro-dominguez-006363246" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
