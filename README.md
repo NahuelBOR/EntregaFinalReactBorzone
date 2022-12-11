@@ -6,9 +6,9 @@ En el momento que se queda sin stock el producto, al producto se le aparece un c
 
 
 
-- 📝Para probar el login [⚡ Email: 'marcaledom26@gmail.com'](📝 Password: 'coder2022')
+- 📝Para probar el login [⚡ Email: 'nahubor@gmail.com'](📝 Password: 'coderhouse')
 
-                          [⚡ Email: 'fattoincasamad@gmail.com'](📝 Password: 'coder1986')
+                          [⚡ Email: 'bazareliza@gmail.com'](📝 Password: 'codercoder')
 
 - 👨‍💻Tecnologías y librerías utilizadas: 
                                         ⚡ Ruteo con React Router Dom

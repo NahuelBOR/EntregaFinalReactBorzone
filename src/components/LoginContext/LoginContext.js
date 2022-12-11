@@ -6,16 +6,16 @@ export const LoginContext = createContext()
 
 const usuarios = [
     {
-        email: 'marcaledom26@gmail.com',
-        password: 'coder2022'
+        email: 'nahubor@gmail.com',
+        password: 'coderhouse'
     },
     {
-        email: 'fattoincasamad@gmail.com',
-        password: 'coder1986'
+        email: 'bazareliza@gmail.com',
+        password: 'codercoder'
     },
     {
-        email: 'mad1986@gmail.com',
-        password: 'coder2021'
+        email: 'admin@gmail.com',
+        password: 'admin'
     }
 ]
 

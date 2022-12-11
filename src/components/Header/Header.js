@@ -11,7 +11,7 @@ export const Header = () => {
     <header className="container my-5">
       
       <div className=''>
-        <Link to="/" className=" container text-decoration-none  d-flex justify-content-center "><h1 className=" textodescripcion ">FATTO IN CASA</h1></Link>
+        <Link to="/" className=" container text-decoration-none  d-flex justify-content-center "><h1 className=" textodescripcion ">BAZAR ELIZA</h1></Link>
         <NavBar />
       </div>
 

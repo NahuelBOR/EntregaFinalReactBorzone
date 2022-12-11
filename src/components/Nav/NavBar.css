@@ -6,10 +6,10 @@
    
 }
 .navbar-container {
-    max-width: 814px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 23px 0;
-    background-color: bisque;
+    background-color: rgb(109, 103, 228);
     border-radius: 12px;
     display: flex;
     flex-direction: column;
@@ -34,6 +34,6 @@
 .navbar-navlink {
     font-size: 40px;
     font-weight: 600;
-    color: rgba(17, 0, 255, 0.808);
+    color: rgb(242, 247, 161);
     text-decoration: none;
 }
